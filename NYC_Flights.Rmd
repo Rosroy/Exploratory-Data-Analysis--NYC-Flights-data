@@ -3,7 +3,7 @@ title: "Pearson data"
 output: html_notebook
 ---
 
-Author: "Purba Roy"
+Author: "Roshni Roy"
 
 ---
 
